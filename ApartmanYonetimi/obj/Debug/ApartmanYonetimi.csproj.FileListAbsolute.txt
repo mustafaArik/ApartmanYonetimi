@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Form2.resources
